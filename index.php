@@ -1,6 +1,6 @@
 <?php
    //1 - VARIABLES
-    $name = "Russels";
+    $name = "Russel";
     $age = 21;
     $gender = "Male";
 
