@@ -125,7 +125,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>GIT Tutorial</title>
 </head>
 <body>
     <form action="/PHP_Tutorial/index.php" method="post">
